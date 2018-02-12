@@ -1,0 +1,12 @@
+extends: airbnb-base
+
+rules:
+  indent:
+    - 2  # error
+    - 4  # number of spaces
+  valid-jsdoc:
+    - 2
+  require-jsdoc:
+    - 2
+  strict:
+    - 0
